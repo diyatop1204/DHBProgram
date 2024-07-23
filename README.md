@@ -8,7 +8,10 @@ The DHB Program written in Python 3 is designed to manage and track COVID-19 vac
    - (Other files are not required for program to work).
 3. Locate Terminal/ Command Prompt.
 4. Navigate to directory containing the code file (DHB Program.py) and ensure NHI patient data file (NHIdata2.csv) is located in the same directory.
-5. Run ```python 'DHB Program.py'```
+5. Run
+   ```nano
+   python 'DHB Program.py'
+   ```
 6. Follow the on-screen instructions to manage and track the COVID-19 vaccination status of patients.
 
 # USER INSTRUCTIONS:
